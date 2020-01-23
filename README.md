@@ -1,2 +1,2 @@
 # calculator
- just an mind excercise
+ just a mind excercise
